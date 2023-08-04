@@ -8,7 +8,8 @@ final class AppDelegate: UIResponder, UIApplicationDelegate {
     ) -> Bool {
 //        print("Hello world")
 //        print("Du hast!")
-        print("New variable")
+        print("Hello world for branch to merge")
+
         return true
     }
 
