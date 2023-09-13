@@ -9,7 +9,7 @@ final class AppDelegate: UIResponder, UIApplicationDelegate {
 //        print("Hello world")
 //        print("Du hast!")
 //        print("Hello world for branch to merge")
-        print("Hello&Hello")
+        print("Hello world new for branch to merge")
 
         return true
     }
